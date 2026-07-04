@@ -140,3 +140,12 @@ Built at Passbase as a proof of concept for decentralized identity.
 **B.Sc. Computer Science** — Federal University of Technology, Akure (2017–2023)
 
 Activities: Microsoft Learn Student Ambassador · Google Developers' Student Club Core Member · Hackathons
+
+<div align="center">
+  <a href="https://commit-history.com/olalekanteeblaze">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/olalekanteeblaze?theme=dark" />
+      <img alt="olalekanteeblaze's commit history" src="https://commit-history.com/embed/olalekanteeblaze" />
+    </picture>
+  </a>
+</div>
