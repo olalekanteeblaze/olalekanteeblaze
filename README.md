@@ -8,17 +8,17 @@ Senior Full-Stack Engineer with 6+ years shipping production web and mobile prod
 
 ## Active Projects
 
-
-### Sparkly
+### [Sparkly](https://sparkly.so)
 **Community monetization platform**
 
 *React · Node.js · TypeScript · PostgreSQL*
 
 Led as founding engineer. Designed the architecture, led a team of two engineers, and drove implementation end-to-end from 0 to 1.
 
-- Full platform ownership: architecture, engineering standards, delivery, and deployment
-- Two entities: Sparkly, Inc. (Delaware) and SPARKLYHQ LIMITED (Nigerian subsidiary)
-- Drafted dual-jurisdiction Terms of Use and Privacy Policy (NDPR + Delaware compliance)
+- Designed the full system architecture: multi-tenant data model, role-based access control, and modular service boundaries
+- Built the monetization infrastructure: subscription tiers, one-time payments, and creator payout flows
+- Engineered a dual-entity backend serving two separate legal jurisdictions from a single codebase
+- Owned CI/CD pipeline, deployment infrastructure, and ongoing production operations
 
 ---
 
@@ -28,7 +28,7 @@ Led as founding engineer. Designed the architecture, led a team of two engineers
 
 ---
 
-### WealthReach *(Toptal client)*
+### [WealthReach](https://wealthreach.ai) *(Toptal client)*
 **Financial advisor prospecting platform**
 
 *Next.js · TypeScript · Prisma · PostgreSQL · ClickHouse · AWS*
@@ -42,7 +42,7 @@ One of my most technically demanding projects.
 
 ---
 
-### AskAssembly *(Toptal client)*
+### [AskAssembly](https://askassembly.app) *(Toptal client)*
 **AI sales and support copilot**
 
 *React · TypeScript · Python · Django · Django REST Framework · OpenAI APIs*
@@ -85,7 +85,7 @@ One of my most technically demanding projects.
 
 ---
 
-### LiveDocs
+### [LiveDocs](https://livedocs.com)
 **Natural-language data interface**
 
 *Node.js · Express · React · MongoDB · AI*
